@@ -1,4 +1,4 @@
-# PS1_WPF_PrerequisitesGUI_1
+# Prerequisite GUI for your application with PowerShell and WPF
 ![alt text](https://github.com/damienvanrobaeys/PS1_WPF_PrerequisitesGUI_1/blob/master/Sources/preview.jpg)
 
 **Create a prerequisite GUI for your application with PowerShell and WPF**
